@@ -1,0 +1,14 @@
+.heading{
+    text-align: center;
+}
+.Recipes{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
+}
+.Chicken, .Pho, .SB{
+font-size:larger;
+
+}
+
